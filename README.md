@@ -1,2 +1,2 @@
 # gloton-landing
-Gloton Landing Page -COMING SOON-
+Gloton Landing Page - COMING SOON -
